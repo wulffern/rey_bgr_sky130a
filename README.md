@@ -8,11 +8,16 @@ wulff
 
 # Why
 
-<explain why you made this module>
+A curvature-compensated (second order) current-mode bandgap reference, ~0.6 V
+VREF, built from tiles of [rey_atr](https://github.com/wulffern/rey_atr_sky130a)
+cells on the 8.0 x 4.0 um transistor slot grid. Based on the bandgap core in
+[lelo_temp](https://github.com/wulffern/lelo_temp_sky130a).
 
 # How
 
-<explain short how you made this module>
+Work in progress, see [PLAN.md](PLAN.md). The curvature correction follows
+
+![](media/l3_curv_tikz.svg)
 
 
 # What
