@@ -1,0 +1,18 @@
+library: REY_BGR_SKY130A
+cell: REY_BGR
+# Your name
+author: Anonymous
+# Your github username
+github: analogicus
+# Something funny and descriptive
+tagline: The answer is 42
+# Your email, if you so wish
+email: anon@anon.com
+# Your github site, usually <github username>.github.io
+url: analogicus.github.io/rey_bgr_sky130a/
+doc:
+  # Make docs
+  libraries:
+    REY_BGR_SKY130A:
+      - tt_um_rey_bgr_analogicus
+      - REY_BGR
